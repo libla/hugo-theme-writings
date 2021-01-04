@@ -1,0 +1,12 @@
+name = "writings"
+license = "MIT"
+licenselink = "https://github.com/libla/hugo-theme-writings/blob/master/LICENSE"
+description = "Moments piled up. A simple, elegant blog theme."
+homepage = "https://github.com/libla/hugo-theme-writings"
+tags = ["blog"]
+features = ["mobile","elegant"]
+min_version = "0.1.0"
+
+[author]
+  name = "libla"
+  homepage = "https://github.com/libla/hugo-theme-writings"
